@@ -1,5 +1,9 @@
 
-<img align="center" src="logo.png">
+
+
+<p align="center">
+ <img src="logo.png">
+</p>
 
 # Hi there! <img src="wave.gif" width="30px">
 
